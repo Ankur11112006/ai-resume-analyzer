@@ -19,6 +19,8 @@ An intelligent, AI-powered web application that analyzes existing resumes agains
 - **Skill Gap Analysis**: Identifies matched, missing, and suggested skills
 - **AI Resume Improvement**: Automatically generates enhanced versions
 - **Professional Themes**: 6 beautiful, ATS-compatible themes
+- <img width="1463" height="778" alt="image" src="https://github.com/user-attachments/assets/f69de2e8-0c3d-422a-8456-a78ea581258c" />
+
 
 
 ###  Resume Builder
@@ -29,6 +31,8 @@ An intelligent, AI-powered web application that analyzes existing resumes agains
 - **Skill Management**: Interactive skill tagging system
 - **Progress Tracking**: Visual completion indicators
 - **Multi-format Export**: PDF and DOCX download options
+- <img width="1497" height="810" alt="image" src="https://github.com/user-attachments/assets/75ede0e2-c319-4a71-8fe6-ee2c4f547f1f" />
+
 
 ##  Technology Stack
 
@@ -260,5 +264,6 @@ If you encounter any issues:
 ---
 
 **Built with  for helping job seekers create outstanding resumes**
+
 
 *Star ⭐ this repository if it helped you land your dream job!*
